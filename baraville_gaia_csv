@@ -1,0 +1,35 @@
+id,time,date,location,duration,use of media within the communication,mood,mood changes,eye contact,gesture,people involved in the conversation,people joining the conversation,volume
+1,Afternoon,10/14/15,Oakland Campus,10m,Yes,Neutral,Yes,Yes,No,3,No,Normal
+2,Afternoon,10/14/15,Oakland Campus,15m,No,Anxious for Quiz,Yes,Yes,Yes,4,Yes,Normal
+3,Afternoon,10/14/15,Oakland Campus,5m,No,Anxious for Quiz,No,Yes,No,3,No,Quiet
+4,Afternoon,10/14/15,Oakland Campus,30m,Yes,Neutral,Yes,Yes,No,2,No,Happy
+5,Afternoon,10/14/15,Oakland Campus,1m,No,Neutral,Yes,No,No,15,Yes,Happy
+6,Afternoon,10/14/15,Oakland Campus,1m,No,Neutral,Yes,No,No,15,Yes,Happy
+7,Afternoon,10/14/15,Oakland Campus,20m,Yes,Neutral,Yes,Yes,Yes,6,Yes,Normal
+8,Afternoon,10/14/15,Shuttle,10m,No,Neutral,No,Yes,No,2,No,Normal
+9,Afternoon,10/14/15,Shuttle,60s,No,Neutral,No,No,No,3,Yes,Loud
+10,Afternoon,10/14/15,GD studio,2h,Yes,Neutral,Yes,Yes,No,4,Yes,Normal
+11,Afternoon,10/14/15,CCA,60s,No,Neutral,No,No,Yes,2,No,Normal
+12,Afternoon,10/14/15,CCA,300s,No,Neutral,No,Yes,Yes,3,Yes,Normal
+13,Evening,10/14/15,Home,30m,No,Neutral,No,Yes,No,3,Yes,Normal
+14,Evening,10/14/15,Home,10m,Yes,Neutral,Yes,Yes,No,2,No,Normal
+15,Evening,10/14/15,Home,5m,No,Neutral,No,Yes,Yes,2,No,Normal
+16,Morning,10/15/15,GYM,1m,No,Sleepy,No,No,No,2,No,Normal
+17,Morning,10/15/15,GYM,10m,No,Happy,Yes,Yes,Yes,5,Yes,Normal-Loud
+18,Morning,10/15/15,GYM,3m,No,Neutral,No,No,Yes,2,No,Normal
+19,Morning,10/15/15,Street,60s,No,Surprised,Yes,No,Yes,3,Yes,Loud
+20,Morning,10/15/15,Street,60s,No,Normal,No,Yes,Yes,2,No,None
+21,Morning,10/15/15,CCA,60s,No,Neutral,No,Yes,Yes,2,No,Normal
+23,Morning,10/15/15,CCA,600s,Yes,Neutral,Yes,Yes,No,4,Yes,Normal
+24,Morning,10/15/15,CCA,60s,No,Neutral,No,No,No,2,No,Normal
+25,Morning,10/15/15,CCA,1200s,Yes,Neutral,No,Yes,Yes,15,Yes,Normal
+26,Morning,10/15/15,CCA,300s,No,Neutral,Yes,Yes,Yes,4,No,Normal
+27,Afternoon,10/15/15,CCA,1800s,No,Neutral,Yes,Yes,Yes,2,No,Normal
+28,Afternoon,10/15/15,CCA,60s,No,Neutral,No,No,Yes,2,No,Normal
+29,Afternoon,10/15/15,CCA,60s,No,Neutral,No,No,Yes,2,No,Normal
+30,Afternoon,10/15/15,CCA,600s,No,Neutral,No,Yes,No,4,Yes,Normal
+31,Afternoon,10/15/15,CCA,1200s,Yes,Neutral,Yes,Yes,Yes,7,No,Normal
+32,Afternoon,10/15/15,CCA,360s,Yes,Neutral,Yes,No,Yes,3,Yes,Normal
+33,Afternoon,10/15/15,CCA,600s,Yes,Neutral,Yes,Yes,Yes,4,No,Normal
+34,Afternoon,10/15/15,CCA,300s,No,Neutral,No,Yes,No,2,No,Normal
+35,Afternoon,10/15/15,CCA,180s,No,Neutral,No,Yes,Yes,5,Yes,Normal
