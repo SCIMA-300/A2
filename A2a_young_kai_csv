@@ -1,0 +1,31 @@
+UID,type,Topic,1 way or 2 way,Body?,type,Verbal?,Date,Time,Location,Latitude,Longitude,Receiver,Sender,Mood 1-grumps 10-haps,Clothing,Music,Temp
+1,conversation,thank you / pay,2,no,no,yes,10/18/15,8:37am,4201 18th Street,37.760875,-122.435248,cashier- Mark + self,cashier- Mark + self,3-,"Jeans, blue t-shirt, socks, dansko",none,63
+2,conversation,morning,2,yes,kiss,yes,10/18/15,8:45am,544 Noe Street,37.760194,-122.433072,Brian Mayer + self,Brian Mayer + self,4- ,"Jeans, blue t-shirt ",none,63
+3,conversation,day,2,yes,"hug, smile",yes,10/18/15,8:46am,544 Noe Street,37.760194,-122.433072,Brian Mayer + self,Brian Mayer + self,4- ,"Jeans, blue t-shirt ",none,63
+4,conversation,yarness,2,yes,"hug, kiss, smile",yes,10/18/15,9:15am,549 Castro Street,37.760125,-122.434896,Ryan Crowder + self,Ryan Crowder + self,6-,"Jeans, blue t-shirt, socks, dansko",Sia,64
+5,conversation,morning,2,yes,"hug, kiss",yes,10/18/15,9:21am,549 Castro Street,37.760125,-122.434896,Dave Rebello + self,Dave Rebello + self,6-,"Jeans, blue t-shirt, socks, dansko",Selena Gomez,64
+6,conversation,thank you / pay,2,no,no,yes,10/18/15,9:23am,549 Castro Street,37.760125,-122.434896,cashier + self,cashier + self,6-,"Jeans, blue t-shirt, socks, dansko",Selena Gomez,64
+7,conversation,morning,2,yes,"hug, wave",yes,10/18/15,9:30am,525 Castro Street,37.760451,-122.434658,Chris David + self,Chris David + self,6-,"Jeans, blue t-shirt, socks, dansko",none,64
+8,conversation,faucet,2,yes,"wave, gesture",yes,10/18/15,9:42am,479 Castro Street,37.761296,-122.434783,store clerk + self,store clerk + self,6-,"Jeans, blue t-shirt, socks, dansko",instrumental,64
+9,conversation,Tyler's birthday,2,yes,smile,yes,10/18/15,9:47am,479 Castro Street,37.761296,-122.434783,Brian Mayer + self,Brian Mayer + self,6-,"Jeans, blue t-shirt, socks, dansko",instrumental,64
+10,instruction,food,1,yes,point,yes,10/18/15,10:15am,544 Noe Street,37.760194,-122.433072,Mochi,self,7-,"Jeans, blue t-shirt, socks, dansko",none,64
+11,cross the street,my dog doesn't like your dog,1,yes,walking,no,10/18/15,10:52am,544 Noe Street,37.760194,-122.433072,Unknown neighbor,self,5-,"Jeans, blue t-shirt, socks, dansko",Chvrches,68
+12,conversation,afternoon,2,yes,"smile, gesture, hug",yes,10/18/15,11:03am,544 Noe Street,37.760194,-122.433072,Brian Mayer + self,Brian Mayer + self,8-,"Jeans, blue t-shirt, socks, dansko",Hot Chip,69
+13,instruction,off the couch,1,yes,point,yes,10/18/15,12:47pm,544 Noe Street,37.760194,-122.433072,Mochi,self,8-,"Shorts, gray t-shirt",Drake,72
+14,conversation,neighbors garage,2,yes,gesture,yes,10/18/15,5:48pm,544 Noe Street,37.760194,-122.433072,Brian Mayer + self,Brian Mayer + self,9-,"Jeans, blue t-shirt, socks, dansko",none,73
+15,conversation,ordered a beer,2,yes,smile,yes,10/18/15,6:02pm,440 Castro Street,37.761816,-122.435089,bartender + self,bartender + self,9-,"Jeans, blue t-shirt, socks, dansko",Book of Love,72
+16,conversation,Tony and Scott,2,yes,"smile, gesture ",yes,10/18/15,6:09pm,440 Castro Street,37.761816,-122.435089,Dave Rebello + self,Dave Rebello + self,8-,"Jeans, blue t-shirt, socks, dansko",Erasure,72
+17,conversation,pizza and dads,2,yes,"smile, gesture, hug",yes,10/18/15,6:15pm,440 Castro Street,37.761816,-122.435089,Dave Naden + self,Dave Naden + self,8-,"Jeans, blue t-shirt, socks, dansko",Donna Summers,72
+18,conversation,wedding,2,yes,"smile, gesture",yes,10/18/15,6:22pm,440 Castro Street,37.761816,-122.435089,Brian Mangin + self,Brian Mangin + self,9-,"Jeans, blue t-shirt, socks, dansko",The Gossip,71
+19,conversation,multi-topic,2,yes,"smile, gesture ",yes,10/18/15,6:30pm,440 Castro Street,37.761816,-122.435089,"Mayer, Mangin, Naden, Rebello, self","Mayer, Mangin, Naden, Rebello, self",9-,"Jeans, blue t-shirt, socks, dansko",Multi,70
+20,conversation,ordered a beer,2,yes,smile,yes,10/18/15,6:42pm,440 Castro Street,37.761816,-122.435089,bartender + self,bartender + self,9-,"Jeans, blue t-shirt, socks, dansko",Maroon 5,72
+21,conversation,goodbye,2,yes,"smile, hug",yes,10/18/15,7:15pm,440 Castro Street,37.761816,-122.435089,Brian Mangin + self,Brian Mangin + self,8-,"Jeans, blue t-shirt, socks, dansko",Meghan Trainor,68
+22,conversation,goodbye,2,yes,"smile, hug",yes,10/18/15,7:15pm,440 Castro Street,37.761816,-122.435089,Dave Naden + self,Dave Naden + self,8-,"Jeans, blue t-shirt, socks, dansko",Meghan Trainor,68
+23,conversation,house in hawaii,2,yes,"smile, gesture",yes,10/18/15,7:22pm,440 Castro Street,37.761816,-122.435089,Dave Rebello + self,Dave Rebello + self,8-,"Jeans, blue t-shirt, socks, dansko",Ariana Grande,68
+24,conversation,dinner,2,yes,gesture,yes,10/18/15,8:07pm,440 Castro Street,37.761816,-122.435089,Brian Mayer + self,Brian Mayer + self,7-,"Jeans, blue t-shirt, socks, dansko",The Jetts,66
+25,conversation,goodbye,2,es,"smile, hug",yes,10/18/15,8:15pm,440 Castro Street,37.761816,-122.435089,Dave Rebello + self,Dave Rebello + self,7-,"Jeans, blue t-shirt, socks, dansko",Thompson Twins,65
+26,conversation,pizza order,2,yes,"point, smile, gesture",yes,10/18/15,8:22pm,420 Castro Street,37.762067,-122.435381,cashier + self,cashier + self,7-,"Jeans, blue t-shirt, socks, dansko",none,65
+27,conversation,faucet,2,yes,facial,yes,10/18/15,8:25pm,420 Castro Street,37.762067,-122.435381,Brian Mayer + self,Brian Mayer + self,7-,"Jeans, blue t-shirt, socks, dansko",none,65
+28,instruction,go outside,1,yes,point ,yes,10/18/15,8:45pm,544 Noe Street,37.760194,-122.433072,Mochi,self,8-,"Shirts, blue t-shirt, flip flops",none,64
+29,instruction,good boy,1,yes,smile,yes,10/18/15,8:49pm,544 Noe Street,37.760194,-122.433072,Mochi,self,8-,"Shirts, blue t-shirt, flip flops",none,64
+30,conversation,night and morning,2,yes,"smile, kiss, gesture",yes,10/18/15,10:15pm,544 Noe Street,37.760194,-122.433072,Brian Mayer + self,Brian Mayer + self,7-,shorts  ,none,62
